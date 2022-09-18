@@ -1,5 +1,6 @@
 # data directories
 data/
+*.png
 
 # vs code settings
 .vscode
